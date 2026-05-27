@@ -5,8 +5,6 @@
 Mechanical Systems Engineering @ Yamagata University, Japan.
 Building products with modern web technologies.
 
-<br />
-
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -22,15 +20,6 @@ Building products with modern web technologies.
 
 ## GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sotaro711&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sotaro711&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sotaro711&show_icons=true&hide_border=true" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sotaro711&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sotaro711&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotaro711&layout=compact&hide_border=true" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sotaro711&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotaro711&layout=compact&theme=default&hide_border=true)
 
