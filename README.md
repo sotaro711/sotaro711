@@ -8,6 +8,6 @@ Building products with modern web technologies.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,postgres,prisma" />
 </p>
 
